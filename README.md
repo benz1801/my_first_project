@@ -1,2 +1,2 @@
-# my_first_project
-I'll add some content later
+# Il mio primo progetto
+Aggiungerò del contenuto più tardi
